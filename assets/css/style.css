@@ -570,21 +570,15 @@ button {
   overflow: initial;
 }
 
-/* Ensure the images fit the available space and maintain aspect ratio */
-.portfolio_image {
-  width: 100%;
-  height: auto;
-  margin-bottom: 15px; /* Space between images */
+.portfolio_content {
+  padding: 0 2.5rem;
 }
 
-/* Flexbox/Grid adjustments for .portfolio_content */
-.portfolio_content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  padding: 20px;
-  box-sizing: border-box;
+.portfolio_img {
+  width: 256px;
+  border-radius: 0.5rem;
+  justify-self: center;
+}
 
 .portfolio_title {
   font-size: var(--h3-font-size);
