@@ -17,7 +17,7 @@ Switzerland Federal Office of Topography (swisstopo). 2011. Digital elevation mo
 Tanaka, A.P.B., Renard, P., Straubhaar, J., Lauzon, D., 2024. Modeling fracture networks as graphs. In: Geostats2024. Ponta Delgada, Azores, Portugal. 199.\
 You, J., Ying, R., Ren, X., Hamilton, W., Leskovec, J., 2018. GraphRNN: Generating realistic graphs with deep auto-regressive models, in: International conference on machine learning.\
 
-##Acknowledgements: Dany Lauzon, Robin Voland, Tanguy Racine, Alex Kobayashi, Margot Dupuis, Arnaud de Prarochet.
+### Acknowledgements: Dany Lauzon, Robin Voland, Tanguy Racine, Alex Kobayashi, Margot Dupuis, Arnaud de Prarochet.
 
 
 
