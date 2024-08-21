@@ -15,6 +15,6 @@ Nichol, A. Q., & Dhariwal, P. 2021. Improved denoising diffusion probabilistic m
 Sanderson, D.J., Peacock, D.C., Nixon, C.W., Rotevatn, A., 2019. Graph theory and the analysis of fracture networks. Journal of Structural Geology. 125, 155–165.\
 Switzerland Federal Office of Topography (swisstopo). 2011. Digital elevation model swissALTI3D. Switzerland Federal Office of Topography.\
 Tanaka, A.P.B., Renard, P., Straubhaar, J., Lauzon, D., 2024. Modeling fracture networks as graphs. In: Geostats2024. Ponta Delgada, Azores, Portugal. 199.\
-You, J., Ying, R., Ren, X., Hamilton, W., Leskovec, J., 2018. GraphRNN: Generating realistic graphs with deep auto-regressive models, in: International conference on machine learning.\
+You, J., Ying, R., Ren, X., Hamilton, W., Leskovec, J., 2018. GraphRNN: Generating realistic graphs with deep auto-regressive models, in: International conference on machine learning.
 
 ### Acknowledgements🙏: Dany Lauzon, Robin Voland, Tanguy Racine, Alex Kobayashi, Margot Dupuis, Arnaud de Prarochet.
