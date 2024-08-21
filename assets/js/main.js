@@ -187,16 +187,16 @@ const selectedIcon = localStorage.getItem("selected-icon");
 // obtain the current theme
 const getCurrentTheme = () =>
   document.body.classList.contains(darkTheme) ? "dark" : "light";
+
 const getCurrentIcon = () =>
   themeButton.classList.contains(iconTheme) ? "uil-moon" : "uil-sun";
 
 if (selectedTheme) {
-  document.body.classList[selectedTheme === "dark" ? "add" : "remove"](
-    darkTheme
-  );
-  themeButton.classList[selectedIcon === "uil-moon" ? "add" : "remove"](
-    iconTheme
-  );
+  document.body.classList[selectedTheme === "dark" ? "add" : "remove"](darkTheme);
+  themeButton.classList[selectedIcon === "uil-moon" ? "add" : "remove"](iconTheme);
+} else {
+  // Default icon setting if no icon is saved
+  themeButton.classList.add(iconTheme);
 }
 
 // Activate/Deactivate the theme manually with the button
