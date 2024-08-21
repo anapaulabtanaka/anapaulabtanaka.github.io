@@ -175,52 +175,47 @@ function scrollUpfunc() {
 }
 window.addEventListener("scroll", scrollUpfunc);
 
-document.addEventListener('DOMContentLoaded', () => {
-  // DARK/LIGHT THEME
-  const themeButton = document.getElementById("theme-button");
-  const darkTheme = "dark-theme";
-  const iconTheme = "uil-sun";
+// DARK/LIGHT THEME
+const themeButton = document.getElementById("theme-button");
+const darkTheme = "dark-theme";
+const iconTheme = "uil-sun";
 
-  // Previously selected topic (if user selected)
-  const selectedTheme = localStorage.getItem("selected-theme");
-  const selectedIcon = localStorage.getItem("selected-icon");
+// Previously selected topic (if user selected)
+const selectedTheme = localStorage.getItem("selected-theme");
+const selectedIcon = localStorage.getItem("selected-icon");
 
-  // Obtain the current theme
-  const getCurrentTheme = () =>
-    document.body.classList.contains(darkTheme) ? "dark" : "light";
+// obtain the current theme
+const getCurrentTheme = () =>
+  document.body.classList.contains(darkTheme) ? "dark" : "light";
+const getCurrentIcon = () =>
+  themeButton.classList.contains(iconTheme) ? "uil-moon" : "uil-sun";
 
-  const getCurrentIcon = () =>
-    themeButton.classList.contains(iconTheme) ? "uil-moon" : "uil-sun";
+if (selectedTheme) {
+  document.body.classList[selectedTheme === "dark" ? "add" : "remove"](
+    darkTheme
+  );
+  themeButton.classList[selectedIcon === "uil-moon" ? "add" : "remove"](
+    iconTheme
+  );
+}
 
-  if (selectedTheme) {
-    document.body.classList[selectedTheme === "dark" ? "add" : "remove"](darkTheme);
-    themeButton.classList[selectedIcon === "uil-moon" ? "add" : "remove"](iconTheme);
-  } else {
-    // Default icon setting if no icon is saved
-    themeButton.classList.add(iconTheme);
-  }
-
-  // Activate/Deactivate the theme manually with the button
-  themeButton.addEventListener("click", () => {
-    // Add or remove the dark icon/theme
-    document.body.classList.toggle(darkTheme);
-    themeButton.classList.toggle(iconTheme);
-    // We save the theme and the current icon that the user chose
-    localStorage.setItem("selected-theme", getCurrentTheme());
-    localStorage.setItem("selected-icon", getCurrentIcon());
-  });
+// Activate/Deactivate the theme manually with the button
+themeButton.addEventListener("click", () => {
+  // Add or remove the dark icon/theme
+  document.body.classList.toggle(darkTheme);
+  themeButton.classList.toggle(iconTheme);
+  // We save the theme and the current icon that the user chose
+  localStorage.setItem("selected-theme", getCurrentTheme());
+  localStorage.setItem("selected-icon", getCurrentIcon());
 });
 
 // Typing Animation using Typed JS
-// Wait until the DOM is fully loaded before initializing Typed.js
-document.addEventListener("DOMContentLoaded", function () {
-  var typed = new Typed(".type", {
-    strings: ["a Web", "an Android", "a Blockchain"],
-    smartBackspace: true,
-    startDelay: 1000,
-    typeSpeed: 130,
-    backDelay: 1000,
-    backSpeed: 60,
-    loop: true,
-  });
+var typed = new Typed(".type", {
+  strings: ["a Web", "an Android", "a Blockchain"],
+  smartBackspace: true,
+  startDelay: 1000,
+  typeSpeed: 130,
+  backDelay: 1000,
+  backSpeed: 60,
+  loop: true,
 });
