@@ -99,23 +99,26 @@ let workheader = document.getElementById("workheader");
 workheader.style.color = "var(--text-color)";
 educationheader.style.color = "var(--first-color)";
 
+// Event listener for Education tab
 educationheader.addEventListener("click", () => {
-  let condition1 = work.classList.contains("qualification-inactive");
-  if (!condition1) {
-    education.classList.remove("qualification-inactive");
-    work.classList.add("qualification-inactive");
-    workheader.style.color = "var(--text-color)";
-    educationheader.style.color = "var(--first-color)";
-  }
+  if (work.classList.contains("qualification-inactive")) return;
+  
+  education.classList.remove("qualification-inactive");
+  work.classList.add("qualification-inactive");
+
+  workheader.style.color = "var(--text-color)";
+  educationheader.style.color = "var(--first-color)";
 });
+
+// Event listener for Work tab
 workheader.addEventListener("click", () => {
-  let condition2 = education.classList.contains("qualification-inactive");
-  if (!condition2) {
-    work.classList.remove("qualification-inactive");
-    education.classList.add("qualification-inactive");
-    educationheader.style.color = "var(--text-color)";
-    workheader.style.color = "var(--first-color)";
-  }
+  if (education.classList.contains("qualification-inactive")) return;
+
+  work.classList.remove("qualification-inactive");
+  education.classList.add("qualification-inactive");
+
+  educationheader.style.color = "var(--text-color)";
+  workheader.style.color = "var(--first-color)";
 });
 
 // PORTFOLIO SWIPER
