@@ -41,7 +41,8 @@ You, J., Ying, R., Ren, X., Hamilton, W., Leskovec, J., 2018. GraphRNN: Generati
 Robin Voland, Dany Lauzon, Tanguy Racine, Alex Kobayashi, Margot Dupuis, Arnaud de Prarochet.
 
 
-### Subgraph simulation 👩‍💻 - Tsanfleuron fracture network
+### Subgraph simulation 👩‍💻
 
-An example of subgraph simulation using Graph Recurrent Neural Netwroks and Denoising Diffusion Probabilistic Models. Based in (Straubhaar et al. 2024).
+An example of subgraph simulation using Graph Recurrent Neural Netwroks and Denoising Diffusion Probabilistic Models, method proposed by Straubhaar et al. 2024.
+Applied for this work with subgraphs from the Tsanfleuron fracture network: 
 ![](https://github.com/anapaulabtanaka/anapaulabtanaka.github.io/assets/img/anim_2D.gif)
