@@ -1,3 +1,6 @@
+<br>
+<br>
+
 ## References 📚
 - Ashlock, D., Smucker, M., Walker, J. 1999. Graph based genetic algorithms, in: Proceedings of the 1999 Congress331 on Evolutionary Computation-CEC99 (Cat. No. 99TH8406), IEEE. pp. 1362–1368.  
 - Barabási-Albert. Emergence of scaling in random networks. science 286, 509–512.
@@ -26,6 +29,9 @@ Robin Voland, Dany Lauzon, Tanguy Racine, Alex Kobayashi, Margot Dupuis, Arnaud 
 
 ### Subgraph simulation 💻
 An example of subgraph simulation using Graph Recurrent Neural Netwroks and Denoising Diffusion Probabilistic Models.
+<br>
+<br>
 Method proposed by Straubhaar et al. 2024. Applied in this work with subgraphs from the Tsanfleuron fracture network:
+<br>
 <br>
 <img src="./anim_2D.gif" alt="animation">
