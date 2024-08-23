@@ -1,4 +1,3 @@
-<br>
 ## References 📚
 <br>
 Ashlock, D., Smucker, M., Walker, J. 1999. Graph based genetic algorithms, in: Proceedings of the 1999 Congress331 on Evolutionary Computation-CEC99 (Cat. No. 99TH8406), IEEE. pp. 1362–1368.  
