@@ -18,10 +18,12 @@ Switzerland Federal Office of Topography (swisstopo). 2011. Digital elevation mo
 - You, J., Ying, R., Ren, X., Hamilton, W., Leskovec, J., 2018. GraphRNN: Generating realistic graphs with deep auto-regressive models, in: International conference on machine learning.
 <br>
 <br>
+
 ### Acknowledgements 🙏
 Robin Voland, Dany Lauzon, Tanguy Racine, Alex Kobayashi, Margot Dupuis, Arnaud de Prarochet.
 <br>
 <br>
+
 ### Subgraph simulation 💻
 An example of subgraph simulation using Graph Recurrent Neural Netwroks and Denoising Diffusion Probabilistic Models. 
 Method proposed by Straubhaar et al. 2024. Applied in this work with subgraphs from the Tsanfleuron fracture network:
