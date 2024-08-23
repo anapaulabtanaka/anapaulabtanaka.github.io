@@ -26,7 +26,6 @@ Robin Voland, Dany Lauzon, Tanguy Racine, Alex Kobayashi, Margot Dupuis, Arnaud 
 
 ### Subgraph simulation 💻
 An example of subgraph simulation using Graph Recurrent Neural Netwroks and Denoising Diffusion Probabilistic Models.
-<br>
 Method proposed by Straubhaar et al. 2024. Applied in this work with subgraphs from the Tsanfleuron fracture network:
 <br>
 <img src="./anim_2D.gif" alt="animation">
