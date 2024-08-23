@@ -3,7 +3,7 @@
 
 <h1>"Graph-based modelling of fractures in the Tsanfleuron karstic aquifer system" </h1>
 
-<h2> More about the IAH2024 poster:</h2>
+<h2> More - IAH2024 poster:</h2>
 
 <br/>
 
