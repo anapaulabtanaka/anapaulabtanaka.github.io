@@ -1,6 +1,6 @@
-
+<br>
 ## References 📚
-
+<br>
 Ashlock, D., Smucker, M., Walker, J. 1999. Graph based genetic algorithms, in: Proceedings of the 1999 Congress331 on Evolutionary Computation-CEC99 (Cat. No. 99TH8406), IEEE. pp. 1362–1368.  
 
 Barabási-Albert. Emergence of scaling in random networks. science 286, 509–512.
@@ -34,15 +34,16 @@ Switzerland Federal Office of Topography (swisstopo). 2011. Digital elevation mo
 Tanaka, A.P.B., Renard, P., Straubhaar, J., Lauzon, D., 2024. Modeling fracture networks as graphs. In: Geostats2024. Ponta Delgada, Azores, Portugal. 199.
 
 You, J., Ying, R., Ren, X., Hamilton, W., Leskovec, J., 2018. GraphRNN: Generating realistic graphs with deep auto-regressive models, in: International conference on machine learning.
-
+<br>
 
 ### Acknowledgements🙏
-
+<br>
 Robin Voland, Dany Lauzon, Tanguy Racine, Alex Kobayashi, Margot Dupuis, Arnaud de Prarochet.
-
+<br>
 
 ### Subgraph simulation 👩‍💻
-
+<br>
 An example of subgraph simulation using Graph Recurrent Neural Netwroks and Denoising Diffusion Probabilistic Models, method proposed by Straubhaar et al. 2024.
 Applied for this work with subgraphs from the Tsanfleuron fracture network:
+<img src="[url](https://github.com/anapaulabtanaka/anapaulabtanaka.github.io/assets/img/anim_2D.gif)" alt="animation">
 ![](https://github.com/anapaulabtanaka/anapaulabtanaka.github.io/assets/img/anim_2D.gif)
