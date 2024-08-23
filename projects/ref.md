@@ -34,4 +34,5 @@ An example of subgraph simulation using Graph Recurrent Neural Netwroks and Deno
 Method proposed by Straubhaar et al. 2024. Applied in this work with subgraphs from the Tsanfleuron fracture network:
 <br>
 <br>
+
 <img src="./anim_2D.gif" alt="animation">
