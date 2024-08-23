@@ -1,11 +1,19 @@
 <br>
-<br>
 
-<h1>"Graph-based modelling of fractures in the Tsanfleuron karstic aquifer system" </h1>
-
-<h2> More - IAH2024 poster:</h2>
+<h2>"Graph-based modelling of fractures in the Tsanfleuron karstic aquifer system" </h2>
 
 <br/>
+
+### Subgraph simulation 💻
+An example of subgraph simulation using Graph Recurrent Neural Netwroks and Denoising Diffusion Probabilistic Models.
+
+Method proposed by Straubhaar et al. 2024. Applied in this work with subgraphs from the Tsanfleuron fracture network:
+<br>
+<br>
+
+<img src="./anim_2D.gif" alt="animation">
+<br>
+<br>
 
 ## References 📚
 - Ashlock, D., Smucker, M., Walker, J. 1999. Graph based genetic algorithms, in: Proceedings of the 1999 Congress331 on Evolutionary Computation-CEC99 (Cat. No. 99TH8406), IEEE. pp. 1362–1368.<br>  
@@ -30,14 +38,3 @@ Switzerland Federal Office of Topography (swisstopo). 2011. Digital elevation mo
 
 ### Acknowledgements 🙏
 Robin Voland, Dany Lauzon, Tanguy Racine, Alex Kobayashi, Margot Dupuis, Arnaud de Prarochet.
-<br>
-<br>
-
-### Subgraph simulation 💻
-An example of subgraph simulation using Graph Recurrent Neural Netwroks and Denoising Diffusion Probabilistic Models.
-
-Method proposed by Straubhaar et al. 2024. Applied in this work with subgraphs from the Tsanfleuron fracture network:
-<br>
-<br>
-
-<img src="./anim_2D.gif" alt="animation">
