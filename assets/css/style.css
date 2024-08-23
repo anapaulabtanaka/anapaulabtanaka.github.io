@@ -593,6 +593,10 @@ button {
   transform: translateX(0.25rem);
 }
 
+.portfolio_button + .portfolio_button {
+  margin-top: 10px; /* Adjust the value as needed */
+}
+
 .swiper-button-prev::after,
 .swiper-button-next::after {
   content: "";
