@@ -1,12 +1,7 @@
 <br>
 
 <h2>"Graph-based modelling of fractures in the Tsanfleuron karstic aquifer system" </h2>
-
-A.P.B. Tanaka <sup>1</sup>, P. Renard<sup>1</sup>, J.N.M. Caldeira<sup>2</sup>, C.Trunz<sup>1</sup>, X.X.Liang<sup>3</sup>, J.Straubhaar<sup>1</sup>
-
-<sup>1 </sup> Centre for Hydrogeology and Geothermics, University of Neuchâtel, Neuchâtel, Switzerland  
-<sup>2 </sup> Institute of Earth Science, University of Lausanne, Lausanne, Switzerland
-<sup>3 </sup> National Institute of Scientific Research, Quebec, Canada
+A.P.B. Tanaka, P. Renard, J.N.M. Caldeira, C.Trunz, X.X.Liang, J.Straubhaar
 
 <br/>
 
