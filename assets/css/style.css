@@ -565,6 +565,37 @@ button {
   display: none;
 }
 
+/* Tab Button Styling */
+.qualification_button {
+  cursor: pointer;
+  padding: 10px 20px;
+  margin-right: 20px;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+/* Styling for active tab */
+.active-tab {
+  color: var(--first-color);  /* Active tab color */
+  border-bottom: 2px solid var(--first-color);  /* Optional underline for active tab */
+}
+
+/* Styling for inactive tabs */
+.qualification_button {
+  color: var(--text-color);  /* Inactive tab color */
+}
+
+/* Initial state for tab content */
+.qualification_content {
+  display: none; /* Hide content initially */
+}
+
+/* Active content section */
+.qualification_active {
+  display: block; /* Show active section */
+}
+
+
 /* PORTFOLIO  */
 .portfolio_container {
   overflow: initial;
