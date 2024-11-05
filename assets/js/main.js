@@ -92,33 +92,48 @@ skillHeaderArr.forEach((element, idx) => {
 });
 
 // QUALIFICATION TABS
+// Get elements for Education and Work tabs
 let education = document.getElementById("education");
 let work = document.getElementById("work");
 let educationheader = document.getElementById("educationheader");
 let workheader = document.getElementById("workheader");
-workheader.style.color = "var(--text-color)";
-educationheader.style.color = "var(--first-color)";
+
+// Initial active states
+educationheader.classList.add("active-tab");
+workheader.classList.remove("active-tab");
+education.classList.add("qualification_active");
+work.classList.add("qualification_inactive");
 
 // Event listener for Education tab
 educationheader.addEventListener("click", () => {
-  if (work.classList.contains("qualification-inactive")) return;
-  
-  education.classList.remove("qualification-inactive");
-  work.classList.add("qualification-inactive");
+  // Prevent if the tab is already active
+  if (education.classList.contains("qualification_active")) return;
 
-  workheader.style.color = "var(--text-color)";
-  educationheader.style.color = "var(--first-color)";
+  // Toggle active classes for content sections
+  education.classList.remove("qualification_inactive");
+  education.classList.add("qualification_active");
+  work.classList.remove("qualification_active");
+  work.classList.add("qualification_inactive");
+
+  // Change active tab class
+  educationheader.classList.add("active-tab");
+  workheader.classList.remove("active-tab");
 });
 
 // Event listener for Work tab
 workheader.addEventListener("click", () => {
-  if (education.classList.contains("qualification-inactive")) return;
+  // Prevent if the tab is already active
+  if (work.classList.contains("qualification_active")) return;
 
-  work.classList.remove("qualification-inactive");
-  education.classList.add("qualification-inactive");
+  // Toggle active classes for content sections
+  work.classList.remove("qualification_inactive");
+  work.classList.add("qualification_active");
+  education.classList.remove("qualification_active");
+  education.classList.add("qualification_inactive");
 
-  educationheader.style.color = "var(--text-color)";
-  workheader.style.color = "var(--first-color)";
+  // Change active tab class
+  workheader.classList.add("active-tab");
+  educationheader.classList.remove("active-tab");
 });
 
 // PORTFOLIO SWIPER
