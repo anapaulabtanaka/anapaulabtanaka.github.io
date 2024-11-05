@@ -124,8 +124,9 @@ workheader.addEventListener("click", () => {
 // PORTFOLIO SWIPER
 let swiper = new Swiper(".mySwiper", {
   cssMode: true,
+  slidesPerView: 3, // Show 3 slides at a time
+  spaceBetween: 30,  // Space between slides
   loop: true,
-
   navigation: {
     nextEl: ".swiper-button-next",
     prevEl: ".swiper-button-prev",
@@ -134,9 +135,8 @@ let swiper = new Swiper(".mySwiper", {
     el: ".swiper-pagination",
     clickable: true,
   },
-  mousewheel: true,
-  keyboard: true,
 });
+
 
 // SCROLL SECTIONS ACTIVE LINK
 const sections = document.querySelectorAll("section[id]");
