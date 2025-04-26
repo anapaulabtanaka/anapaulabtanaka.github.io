@@ -24,9 +24,13 @@ A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 
 - RIBEIRO, L. F. B., SOUZA CRUZ, F. R., RIBEIRO, M., & GODOY, D. (2005). Origem e controle estrutural e estratigráfico das cavernas, tocas, abrigos de Ipeúna e Itirapina–SP. In CONGRESSO BRASILEIRO DE ESPELEOLOGIA. Vol. 28.
 
+- SANDERSON, D. J., & PEACOCK, D. C. (2020). Making rose diagrams fit-for-purpose. Earth-Science Reviews, 201, 103055.
+
 - TANAKA, A.P.B., RENARD, P., CALDEIRA, J.N.M., LIANG, X.X., TRUNZ, C., STRAUBHAAR, J. (2024) Graph-based modeling of fractures in the Tsanfleuron karst aquifer system. In: International Association of Hydrogeologists 2024 World water groundwater congress.<br>
 <br>
 <br>
 
 ### Acknowledgements 🙏
-The authors acknowledge the speleology groups of GSR (Groupe de Spéléologie Rhodanien), SSG (Société Spéléologique Genevoise), SCJ (Spéléo-Club Jura), and GSL (Groupe Spéléo Lausanne) for sharing the karst surveys. Thanks, Jefter Natan de Moraes Caldeira for the field work, and discussions about structural geology. Thanks also to Eva Kaminsky for giving suggestions to improve the analyses. P. Renard, C. Trunz and T. Racine acknowledge funding by the European Union (ERC, KARST, 101071836). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+The authors acknowledge the speleology groups of GSR (Groupe de Spéléologie Rhodanien), SSG (Société Spéléologique Genevoise), SCJ (Spéléo-Club Jura), and GSL (Groupe Spéléo Lausanne) for sharing the karst surveys. Thanks, Jefter Natan de Moraes Caldeira for the field work, and discussions about structural geology. Thanks also to Eva Kaminsky for giving suggestions to improve the analyses. Thanks Nina Egli, Robin Voland, and Alex Kobayashi. P. Renard, C. Trunz and T. Racine acknowledge funding by the European Union (ERC, KARST, 101071836). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
+
+Slides template: https://slidesgo.com/
