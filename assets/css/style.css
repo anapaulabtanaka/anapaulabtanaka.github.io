@@ -87,9 +87,6 @@ body.dark-theme {
   color: var(--first-color);
 }
 
-body {
-  transition: background.color 0.4s, color 0.4s;
-
 /* BASE */
 * {
   box-sizing: border-box;
