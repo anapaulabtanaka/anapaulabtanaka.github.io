@@ -9,6 +9,11 @@ A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 
 <br/>
 
+## Location
+![link](https://earth.google.com/web/@46.34152241,7.15320433,1500.43728679a,57903.53216515d,30y,0h,0t,0r/data=CgRCAggBMikKJwolCiExVDM0Z09CS1JkbDJFSFhhZEl3Nlh0SncxdnFjeGpwNC0gAToDCgEwQgIIAEoHCMrnjHAQAQ)
+<br>
+<br>
+
 ## References 📚
 - DEIKE, G. (1989) Fracture controls on conduit development. Springer US, Boston, MA. 259–291.
 
