@@ -42,6 +42,7 @@ The authors acknowledge the speleology groups of GSR (Groupe de Spéléologie Rh
 
 ### Contact 📧
 ana.burgoa@unine.ch
+<br>
 [About me](https://anapaulabtanaka.github.io/)
 <br>
 <br>
