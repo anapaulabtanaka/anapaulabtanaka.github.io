@@ -30,6 +30,7 @@ A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 
 ### Acknowledgements 🙏
 The authors acknowledge the speleology groups of GSR (Groupe de Spéléologie Rhodanien), SSG (Société Spéléologique Genevoise), SCJ (Spéléo-Club Jura), and GSL (Groupe Spéléo Lausanne) for sharing the karst surveys. Thanks, Jefter Natan de Moraes Caldeira for the field work, and discussions about structural geology. Thanks also to Eva Kaminsky for giving suggestions to improve the analyses. Thanks Nina Egli, Robin Voland, and Alex Kobayashi. P. Renard, C. Trunz and T. Racine acknowledge funding by the European Union (ERC, KARST, 101071836). Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency. Neither the European Union nor the granting authority can be held responsible for them.
-
+<br>
+<br>
 
 Slides template: https://slidesgo.com/
