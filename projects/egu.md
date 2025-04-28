@@ -4,6 +4,7 @@
  Alps" </h2> <br>
 A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 <br>
+<br>
 [Check the abstract for the EGU25 presentation](https://doi.org/10.5194/egusphere-egu25-11154)
 <br>
 <br>
