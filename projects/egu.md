@@ -7,8 +7,9 @@
   A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
   <br>
   <br>
-  [doi](https://doi.org/10.5194/egusphere-egu25-11154)
   <img src="./authors.png" alt="us">
+  <br>
+  [doi](https://doi.org/10.5194/egusphere-egu25-11154)
 
   <br/>
 
