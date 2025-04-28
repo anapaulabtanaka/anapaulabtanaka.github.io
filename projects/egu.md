@@ -1,5 +1,3 @@
-<div class="margin-left">
-  
   <br>
 
   <h2>"Detecting fracture networks and karst features alignments similarities in the aquifer system of Tsanfleuron, Swiss  
@@ -7,7 +5,7 @@
   A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
   <br>
   <br>
-  <img src="./authors.png" alt="us">
+  <img src="./tsan_networks.png" alt="tsan_networks">
   <br>
   [doi](https://doi.org/10.5194/egusphere-egu25-11154)
 
@@ -49,5 +47,3 @@
 
   ### Slide template 
   [Slidesgo](https://slidesgo.com/)
-
-  </div>
