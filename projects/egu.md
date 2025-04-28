@@ -7,7 +7,7 @@ A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 <br>
 <br>
 
-[image](https://github.com/anapaulabtanaka/anapaulabtanaka.github.io/main/assets/img/EGU_diapo.png)
+<img src="./EGU_diapo.png" alt="egu_slide">
 
 <br/>
 
