@@ -2,10 +2,9 @@
 
 <h2>"Detecting fracture networks and karst features alignments similarities in the aquifer system of Tsanfleuron, Swiss  
  Alps" </h2> <br>
+A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 <br>
 [Check the abstract for the EGU25 presentation](https://doi.org/10.5194/egusphere-egu25-11154)
-<br>
-A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 <br>
 <br>
 <img src="./tsan_networks.png" alt="tsan_networks">
