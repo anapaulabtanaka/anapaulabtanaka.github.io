@@ -38,4 +38,10 @@ The authors acknowledge the speleology groups of GSR (Groupe de Spéléologie Rh
 <br>
 <br>
 
-Slides template: https://slidesgo.com/
+### Contact 📧
+ana.burgoa@unine.ch
+<br>
+<br>
+
+### Slide template 
+[Slidesgo] (https://slidesgo.com/)
