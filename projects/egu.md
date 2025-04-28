@@ -45,5 +45,8 @@ ana.burgoa@unine.ch
 <br>
 <br>
 
+### About me
+[doi](https://anapaulabtanaka.github.io/)
+
 ### Slide template 
 [Slidesgo](https://slidesgo.com/)
