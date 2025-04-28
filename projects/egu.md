@@ -10,7 +10,7 @@ A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 <br/>
 
 ## Location 🌍
-[3D](https://earth.google.com/web/@46.34152241,7.15320433,1500.43728679a,57903.53216515d,30y,0h,0t,0r/data=CgRCAggBMikKJwolCiExVDM0Z09CS1JkbDJFSFhhZEl3Nlh0SncxdnFjeGpwNC0gAToDCgEwQgIIAEoHCMrnjHAQAQ)
+[Check the 3D location](https://earth.google.com/web/@46.34152241,7.15320433,1500.43728679a,57903.53216515d,30y,0h,0t,0r/data=CgRCAggBMikKJwolCiExVDM0Z09CS1JkbDJFSFhhZEl3Nlh0SncxdnFjeGpwNC0gAToDCgEwQgIIAEoHCMrnjHAQAQ)
 <br>
 <br>
 
