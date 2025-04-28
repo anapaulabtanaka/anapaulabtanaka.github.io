@@ -5,7 +5,7 @@ A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 <br>
 <br>
 
-<img src="./EGU_diapo.png" alt="egu_slide">([https://link-to-your-URL/](https://doi.org/10.5194/egusphere-egu25-11154))
+<img src="./EGU_diapo.png" alt="egu_slide">(https://doi.org/10.5194/egusphere-egu25-11154)
 
 <br/>
 
