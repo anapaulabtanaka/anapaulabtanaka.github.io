@@ -7,7 +7,7 @@ A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 <br>
 <img src="./tsan_networks.png" alt="tsan_networks">
 <br>
-[doi](https://doi.org/10.5194/egusphere-egu25-11154)
+[Check the abstract for the EGU25 presentation](https://doi.org/10.5194/egusphere-egu25-11154)
 
 <br/>
 
@@ -42,11 +42,9 @@ The authors acknowledge the speleology groups of GSR (Groupe de Spéléologie Rh
 
 ### Contact 📧
 ana.burgoa@unine.ch
-<br>
-<br>
 [About me](https://anapaulabtanaka.github.io/)
 <br>
 <br>
 
-### Slide template 
+### Slide template 📔
 [Slidesgo](https://slidesgo.com/)
