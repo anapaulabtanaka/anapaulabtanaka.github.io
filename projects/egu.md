@@ -28,6 +28,10 @@ A.P.B. Tanaka, C. Trunz, M. Trottet, T. Racine, and P. Renard
 
 - KIRALY, L., MATHEY, B., TRIPET, J. (1971) Fissuration et orientation des cavités souterraines région de la grotte de Milandre (Jura tabulaire). Bulletin de la société neuchateloise des sciences naturelles. 94: 99-114.
 
+- MARDIA, K. V., & JUPP, P. E. (2009). Directional statistics. John Wiley & Sons.
+
+- NEVEN, A., DALL'ALBA, V., JUDA, P., STRAUBHAAR, J., & RENARD, P. (2021). Ice volume and basal topography estimation using geostatistical methods and GPR measurements: Application on the Tsanfleuron and Scex Rouge glacier, Swiss Alps. The Cryosphere Discussions, 2021, 1-27.
+
 - RABELO, J., MAIA, R., BEZERRA, F., SILVA, C. (2020) Karstification and fluid flow in carbonate units controlled by propagation and linkage of mesoscale fractures, Jandaíra Formation, Brazil. Geomorphology 357.
 
 - SANDERSON, D. J., & PEACOCK, D. C. (2020). Making rose diagrams fit-for-purpose. Earth-Science Reviews, 201, 103055.
