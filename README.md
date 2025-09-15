@@ -14,8 +14,6 @@
 
 ✔️ Home\
 ✔️ About\
-✔️ Skills \
-✔️ Qualifications \
 ✔️ Projects\
 ✔️ Contact Me\
 ✔️ Footer
